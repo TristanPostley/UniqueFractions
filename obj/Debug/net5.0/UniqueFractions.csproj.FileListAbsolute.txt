@@ -1,0 +1,16 @@
+D:\Revature\UniqueFractions\obj\Debug\net5.0\UniqueFractions.csproj.AssemblyReference.cache
+D:\Revature\UniqueFractions\obj\Debug\net5.0\UniqueFractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\UniqueFractions\obj\Debug\net5.0\UniqueFractions.AssemblyInfoInputs.cache
+D:\Revature\UniqueFractions\obj\Debug\net5.0\UniqueFractions.AssemblyInfo.cs
+D:\Revature\UniqueFractions\obj\Debug\net5.0\UniqueFractions.csproj.CoreCompileInputs.cache
+D:\Revature\UniqueFractions\bin\Debug\net5.0\UniqueFractions.exe
+D:\Revature\UniqueFractions\bin\Debug\net5.0\UniqueFractions.deps.json
+D:\Revature\UniqueFractions\bin\Debug\net5.0\UniqueFractions.runtimeconfig.json
+D:\Revature\UniqueFractions\bin\Debug\net5.0\UniqueFractions.runtimeconfig.dev.json
+D:\Revature\UniqueFractions\bin\Debug\net5.0\UniqueFractions.dll
+D:\Revature\UniqueFractions\bin\Debug\net5.0\ref\UniqueFractions.dll
+D:\Revature\UniqueFractions\bin\Debug\net5.0\UniqueFractions.pdb
+D:\Revature\UniqueFractions\obj\Debug\net5.0\UniqueFractions.dll
+D:\Revature\UniqueFractions\obj\Debug\net5.0\ref\UniqueFractions.dll
+D:\Revature\UniqueFractions\obj\Debug\net5.0\UniqueFractions.pdb
+D:\Revature\UniqueFractions\obj\Debug\net5.0\UniqueFractions.genruntimeconfig.cache
